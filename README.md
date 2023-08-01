@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizbenyaala98&show_icons=true&locale=en" alt="azizbenyaala98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizbenyaala98&" alt="azizbenyaala98" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizbenyaala98" alt="azizbenyaala98" /></a> </p>
